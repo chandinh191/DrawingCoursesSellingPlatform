@@ -13,3 +13,5 @@ C:\Users\tuank\OneDrive\Documents\GitHub\DrawingCoursesSellingPlatform\DrawingCo
 C:\Users\tuank\OneDrive\Documents\GitHub\DrawingCoursesSellingPlatform\DrawingCoursesSellingWebRazorPage\DrawingCoursesSellingRepository\obj\Debug\net7.0\refint\DrawingCoursesSellingRepository.dll
 C:\Users\tuank\OneDrive\Documents\GitHub\DrawingCoursesSellingPlatform\DrawingCoursesSellingWebRazorPage\DrawingCoursesSellingRepository\obj\Debug\net7.0\DrawingCoursesSellingRepository.pdb
 C:\Users\tuank\OneDrive\Documents\GitHub\DrawingCoursesSellingPlatform\DrawingCoursesSellingWebRazorPage\DrawingCoursesSellingRepository\obj\Debug\net7.0\ref\DrawingCoursesSellingRepository.dll
+C:\Users\tuank\OneDrive\Documents\GitHub\DrawingCoursesSellingPlatform\DrawingCoursesSellingWebRazorPage\DrawingCoursesSellingRepository\bin\Debug\net7.0\DrawingCoursesSellingDataAccess.dll
+C:\Users\tuank\OneDrive\Documents\GitHub\DrawingCoursesSellingPlatform\DrawingCoursesSellingWebRazorPage\DrawingCoursesSellingRepository\bin\Debug\net7.0\DrawingCoursesSellingDataAccess.pdb

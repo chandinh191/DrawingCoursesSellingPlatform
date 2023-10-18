@@ -997,11 +997,25 @@
           "bin/placeholder/BusinessObject.dll": {}
         }
       },
-      "DrawingCoursesSellingRepository/1.0.0": {
+      "DrawingCoursesSellingDataAccess/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
           "BusinessObject": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DrawingCoursesSellingDataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DrawingCoursesSellingDataAccess.dll": {}
+        }
+      },
+      "DrawingCoursesSellingRepository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "BusinessObject": "1.0.0",
+          "DrawingCoursesSellingDataAccess": "1.0.0"
         },
         "compile": {
           "bin/placeholder/DrawingCoursesSellingRepository.dll": {}
@@ -2690,6 +2704,11 @@
       "type": "project",
       "path": "../BusinessObject/BusinessObject.csproj",
       "msbuildProject": "../BusinessObject/BusinessObject.csproj"
+    },
+    "DrawingCoursesSellingDataAccess/1.0.0": {
+      "type": "project",
+      "path": "../DrawingCoursesSellingDataAccess/DrawingCoursesSellingDataAccess.csproj",
+      "msbuildProject": "../DrawingCoursesSellingDataAccess/DrawingCoursesSellingDataAccess.csproj"
     },
     "DrawingCoursesSellingRepository/1.0.0": {
       "type": "project",

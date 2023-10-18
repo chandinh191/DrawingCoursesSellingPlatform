@@ -64,6 +64,10 @@
               "target": "Package",
               "version": "[7.0.0, )"
             },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
             "Microsoft.Extensions.DependencyInjection": {
               "target": "Package",
               "version": "[7.0.0, )"
@@ -89,14 +93,14 @@
         }
       }
     },
-    "C:\\Users\\tuank\\OneDrive\\Documents\\GitHub\\DrawingCoursesSellingPlatform\\DrawingCoursesSellingWebRazorPage\\DrawingCoursesSellingRepository\\DrawingCoursesSellingRepository.csproj": {
+    "C:\\Users\\tuank\\OneDrive\\Documents\\GitHub\\DrawingCoursesSellingPlatform\\DrawingCoursesSellingWebRazorPage\\DrawingCoursesSellingDataAccess\\DrawingCoursesSellingDataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tuank\\OneDrive\\Documents\\GitHub\\DrawingCoursesSellingPlatform\\DrawingCoursesSellingWebRazorPage\\DrawingCoursesSellingRepository\\DrawingCoursesSellingRepository.csproj",
-        "projectName": "DrawingCoursesSellingRepository",
-        "projectPath": "C:\\Users\\tuank\\OneDrive\\Documents\\GitHub\\DrawingCoursesSellingPlatform\\DrawingCoursesSellingWebRazorPage\\DrawingCoursesSellingRepository\\DrawingCoursesSellingRepository.csproj",
+        "projectUniqueName": "C:\\Users\\tuank\\OneDrive\\Documents\\GitHub\\DrawingCoursesSellingPlatform\\DrawingCoursesSellingWebRazorPage\\DrawingCoursesSellingDataAccess\\DrawingCoursesSellingDataAccess.csproj",
+        "projectName": "DrawingCoursesSellingDataAccess",
+        "projectPath": "C:\\Users\\tuank\\OneDrive\\Documents\\GitHub\\DrawingCoursesSellingPlatform\\DrawingCoursesSellingWebRazorPage\\DrawingCoursesSellingDataAccess\\DrawingCoursesSellingDataAccess.csproj",
         "packagesPath": "C:\\Users\\tuank\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tuank\\OneDrive\\Documents\\GitHub\\DrawingCoursesSellingPlatform\\DrawingCoursesSellingWebRazorPage\\DrawingCoursesSellingRepository\\obj\\",
+        "outputPath": "C:\\Users\\tuank\\OneDrive\\Documents\\GitHub\\DrawingCoursesSellingPlatform\\DrawingCoursesSellingWebRazorPage\\DrawingCoursesSellingDataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tuank\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -148,14 +152,14 @@
         }
       }
     },
-    "C:\\Users\\tuank\\OneDrive\\Documents\\GitHub\\DrawingCoursesSellingPlatform\\DrawingCoursesSellingWebRazorPage\\DrawingCoursesSellingServices\\DrawingCoursesSellingServices.csproj": {
+    "C:\\Users\\tuank\\OneDrive\\Documents\\GitHub\\DrawingCoursesSellingPlatform\\DrawingCoursesSellingWebRazorPage\\DrawingCoursesSellingRepository\\DrawingCoursesSellingRepository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tuank\\OneDrive\\Documents\\GitHub\\DrawingCoursesSellingPlatform\\DrawingCoursesSellingWebRazorPage\\DrawingCoursesSellingServices\\DrawingCoursesSellingServices.csproj",
-        "projectName": "DrawingCoursesSellingServices",
-        "projectPath": "C:\\Users\\tuank\\OneDrive\\Documents\\GitHub\\DrawingCoursesSellingPlatform\\DrawingCoursesSellingWebRazorPage\\DrawingCoursesSellingServices\\DrawingCoursesSellingServices.csproj",
+        "projectUniqueName": "C:\\Users\\tuank\\OneDrive\\Documents\\GitHub\\DrawingCoursesSellingPlatform\\DrawingCoursesSellingWebRazorPage\\DrawingCoursesSellingRepository\\DrawingCoursesSellingRepository.csproj",
+        "projectName": "DrawingCoursesSellingRepository",
+        "projectPath": "C:\\Users\\tuank\\OneDrive\\Documents\\GitHub\\DrawingCoursesSellingPlatform\\DrawingCoursesSellingWebRazorPage\\DrawingCoursesSellingRepository\\DrawingCoursesSellingRepository.csproj",
         "packagesPath": "C:\\Users\\tuank\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tuank\\OneDrive\\Documents\\GitHub\\DrawingCoursesSellingPlatform\\DrawingCoursesSellingWebRazorPage\\DrawingCoursesSellingServices\\obj\\",
+        "outputPath": "C:\\Users\\tuank\\OneDrive\\Documents\\GitHub\\DrawingCoursesSellingPlatform\\DrawingCoursesSellingWebRazorPage\\DrawingCoursesSellingRepository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tuank\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -175,8 +179,8 @@
               "C:\\Users\\tuank\\OneDrive\\Documents\\GitHub\\DrawingCoursesSellingPlatform\\DrawingCoursesSellingWebRazorPage\\BusinessObject\\BusinessObject.csproj": {
                 "projectPath": "C:\\Users\\tuank\\OneDrive\\Documents\\GitHub\\DrawingCoursesSellingPlatform\\DrawingCoursesSellingWebRazorPage\\BusinessObject\\BusinessObject.csproj"
               },
-              "C:\\Users\\tuank\\OneDrive\\Documents\\GitHub\\DrawingCoursesSellingPlatform\\DrawingCoursesSellingWebRazorPage\\DrawingCoursesSellingRepository\\DrawingCoursesSellingRepository.csproj": {
-                "projectPath": "C:\\Users\\tuank\\OneDrive\\Documents\\GitHub\\DrawingCoursesSellingPlatform\\DrawingCoursesSellingWebRazorPage\\DrawingCoursesSellingRepository\\DrawingCoursesSellingRepository.csproj"
+              "C:\\Users\\tuank\\OneDrive\\Documents\\GitHub\\DrawingCoursesSellingPlatform\\DrawingCoursesSellingWebRazorPage\\DrawingCoursesSellingDataAccess\\DrawingCoursesSellingDataAccess.csproj": {
+                "projectPath": "C:\\Users\\tuank\\OneDrive\\Documents\\GitHub\\DrawingCoursesSellingPlatform\\DrawingCoursesSellingWebRazorPage\\DrawingCoursesSellingDataAccess\\DrawingCoursesSellingDataAccess.csproj"
               }
             }
           }
@@ -237,8 +241,8 @@
               "C:\\Users\\tuank\\OneDrive\\Documents\\GitHub\\DrawingCoursesSellingPlatform\\DrawingCoursesSellingWebRazorPage\\BusinessObject\\BusinessObject.csproj": {
                 "projectPath": "C:\\Users\\tuank\\OneDrive\\Documents\\GitHub\\DrawingCoursesSellingPlatform\\DrawingCoursesSellingWebRazorPage\\BusinessObject\\BusinessObject.csproj"
               },
-              "C:\\Users\\tuank\\OneDrive\\Documents\\GitHub\\DrawingCoursesSellingPlatform\\DrawingCoursesSellingWebRazorPage\\DrawingCoursesSellingServices\\DrawingCoursesSellingServices.csproj": {
-                "projectPath": "C:\\Users\\tuank\\OneDrive\\Documents\\GitHub\\DrawingCoursesSellingPlatform\\DrawingCoursesSellingWebRazorPage\\DrawingCoursesSellingServices\\DrawingCoursesSellingServices.csproj"
+              "C:\\Users\\tuank\\OneDrive\\Documents\\GitHub\\DrawingCoursesSellingPlatform\\DrawingCoursesSellingWebRazorPage\\DrawingCoursesSellingRepository\\DrawingCoursesSellingRepository.csproj": {
+                "projectPath": "C:\\Users\\tuank\\OneDrive\\Documents\\GitHub\\DrawingCoursesSellingPlatform\\DrawingCoursesSellingWebRazorPage\\DrawingCoursesSellingRepository\\DrawingCoursesSellingRepository.csproj"
               }
             }
           }
