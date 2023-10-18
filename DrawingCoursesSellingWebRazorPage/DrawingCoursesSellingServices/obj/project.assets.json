@@ -1009,20 +1009,6 @@
         "runtime": {
           "bin/placeholder/DrawingCoursesSellingRepository.dll": {}
         }
-      },
-      "DrawingCoursesSellingServices/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v7.0",
-        "dependencies": {
-          "BusinessObject": "1.0.0",
-          "DrawingCoursesSellingRepository": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/DrawingCoursesSellingServices.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/DrawingCoursesSellingServices.dll": {}
-        }
       }
     }
   },
@@ -2709,17 +2695,12 @@
       "type": "project",
       "path": "../DrawingCoursesSellingRepository/DrawingCoursesSellingRepository.csproj",
       "msbuildProject": "../DrawingCoursesSellingRepository/DrawingCoursesSellingRepository.csproj"
-    },
-    "DrawingCoursesSellingServices/1.0.0": {
-      "type": "project",
-      "path": "../DrawingCoursesSellingServices/DrawingCoursesSellingServices.csproj",
-      "msbuildProject": "../DrawingCoursesSellingServices/DrawingCoursesSellingServices.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
       "BusinessObject >= 1.0.0",
-      "DrawingCoursesSellingServices >= 1.0.0"
+      "DrawingCoursesSellingRepository >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -2728,11 +2709,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tuank\\OneDrive\\Documents\\GitHub\\DrawingCoursesSellingPlatform\\DrawingCoursesSellingWebRazorPage\\DrawingCoursesSellingWebRazorPage\\DrawingCoursesSellingWebRazorPage.csproj",
-      "projectName": "DrawingCoursesSellingWebRazorPage",
-      "projectPath": "C:\\Users\\tuank\\OneDrive\\Documents\\GitHub\\DrawingCoursesSellingPlatform\\DrawingCoursesSellingWebRazorPage\\DrawingCoursesSellingWebRazorPage\\DrawingCoursesSellingWebRazorPage.csproj",
+      "projectUniqueName": "C:\\Users\\tuank\\OneDrive\\Documents\\GitHub\\DrawingCoursesSellingPlatform\\DrawingCoursesSellingWebRazorPage\\DrawingCoursesSellingServices\\DrawingCoursesSellingServices.csproj",
+      "projectName": "DrawingCoursesSellingServices",
+      "projectPath": "C:\\Users\\tuank\\OneDrive\\Documents\\GitHub\\DrawingCoursesSellingPlatform\\DrawingCoursesSellingWebRazorPage\\DrawingCoursesSellingServices\\DrawingCoursesSellingServices.csproj",
       "packagesPath": "C:\\Users\\tuank\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tuank\\OneDrive\\Documents\\GitHub\\DrawingCoursesSellingPlatform\\DrawingCoursesSellingWebRazorPage\\DrawingCoursesSellingWebRazorPage\\obj\\",
+      "outputPath": "C:\\Users\\tuank\\OneDrive\\Documents\\GitHub\\DrawingCoursesSellingPlatform\\DrawingCoursesSellingWebRazorPage\\DrawingCoursesSellingServices\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tuank\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2752,8 +2733,8 @@
             "C:\\Users\\tuank\\OneDrive\\Documents\\GitHub\\DrawingCoursesSellingPlatform\\DrawingCoursesSellingWebRazorPage\\BusinessObject\\BusinessObject.csproj": {
               "projectPath": "C:\\Users\\tuank\\OneDrive\\Documents\\GitHub\\DrawingCoursesSellingPlatform\\DrawingCoursesSellingWebRazorPage\\BusinessObject\\BusinessObject.csproj"
             },
-            "C:\\Users\\tuank\\OneDrive\\Documents\\GitHub\\DrawingCoursesSellingPlatform\\DrawingCoursesSellingWebRazorPage\\DrawingCoursesSellingServices\\DrawingCoursesSellingServices.csproj": {
-              "projectPath": "C:\\Users\\tuank\\OneDrive\\Documents\\GitHub\\DrawingCoursesSellingPlatform\\DrawingCoursesSellingWebRazorPage\\DrawingCoursesSellingServices\\DrawingCoursesSellingServices.csproj"
+            "C:\\Users\\tuank\\OneDrive\\Documents\\GitHub\\DrawingCoursesSellingPlatform\\DrawingCoursesSellingWebRazorPage\\DrawingCoursesSellingRepository\\DrawingCoursesSellingRepository.csproj": {
+              "projectPath": "C:\\Users\\tuank\\OneDrive\\Documents\\GitHub\\DrawingCoursesSellingPlatform\\DrawingCoursesSellingWebRazorPage\\DrawingCoursesSellingRepository\\DrawingCoursesSellingRepository.csproj"
             }
           }
         }
@@ -2779,9 +2760,6 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
